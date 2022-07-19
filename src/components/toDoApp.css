@@ -1,0 +1,25 @@
+* {
+    background-color: white;
+}
+
+html, body{
+    width: 100%;
+    height: 100vh;
+    padding: 4px;
+}
+
+.btn_edit, .btn_delete{
+    float: right;
+    margin-right: 5px;
+}
+
+.btn_ok{
+    margin-right: 10px;
+}
+
+.texto_tachado{
+    text-decoration: line-through;
+    text-decoration-color: black;
+    margin-top: 10px;
+    
+}
